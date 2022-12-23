@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyKalkulator</string>
+    <string name="hint_1">1-е число</string>
+    <string name="hint_2">2-е число</string>
+</resources>
